@@ -10,6 +10,6 @@ El archivo "Churn_Modelling.csv" se descargó de la plataforma Kaggle.
 
 ## Resultados
 
-Al analizar el reporte final de métricas, se encontró que el mejor modelo para clasificar a los cientes, sería el de "arbol de decisión":
+Al analizar el reporte final de métricas, se encontró que el mejor modelo para clasificar a los cientes, sería el de "arbol de decisión". Hubo problemas con el modelo de SVM, que provocó errores, por lo que tuvo que dejarse fuera, antes de un análisis más exhaustivo:
 
 ![Portada_Churn_Clasif](https://raw.githubusercontent.com/Giovanni-Chipuli/Churn_Clasif_Despliegue/main/Archivos/Portada_Churn_Clasif.JPG)
