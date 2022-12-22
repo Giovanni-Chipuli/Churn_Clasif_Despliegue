@@ -12,4 +12,4 @@ El archivo "Churn_Modelling.csv" se descargó de la plataforma Kaggle.
 
 Al analizar el reporte final de métricas, se encontró que el mejor modelo para clasificar a los cientes, sería el de "arbol de decisión":
 
-![Portada_Churn_Clasif](https://user-images.githubusercontent.com/120142476/208344995-3f97e684-0d25-4dd5-93d1-cbdfadc1df34.PNG)
+![Portada_Churn_Clasif](https://raw.githubusercontent.com/Giovanni-Chipuli/Churn_Clasif_Despliegue/main/Archivos/Portada_Churn_Clasif.JPG)
