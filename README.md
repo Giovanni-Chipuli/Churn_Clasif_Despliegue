@@ -22,4 +22,4 @@ Al analizar el reporte final de métricas, se encontró que el mejor modelo para
 
 Con dicho modelo se procede a predecir la fuga de los cleintes, según nueva data:
 
-![image](https://user-images.githubusercontent.com/120142476/210671442-2fbd712f-a0b0-4f0e-9b2f-2b7e23369108.png)
+![Portada_Churn_Clasif2](https://raw.githubusercontent.com/Giovanni-Chipuli/Churn_Clasif_Despliegue/main/Archivos/Portada_Churn_Clasif2.JPG)
